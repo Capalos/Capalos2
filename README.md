@@ -1,2 +1,2 @@
 # Capalos2
-https://capalos.github.io/Capalos2/
+http://capalos.github.io/Capalos2/
